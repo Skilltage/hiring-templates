@@ -40,4 +40,21 @@ Templates and column explanations are available in four languages. CSV column ke
 
 Record product version, configuration, observed behaviour and retained evidence before scoring. Use 0 absent or adverse, 1 partial, 2 demonstrated. Mark unobserved questions as not observed and rerun; do not score them zero. Set non-negotiable gates before the demonstration. Vendor scores must never become candidate scores.
 
+## code-sample-review.csv
+
+| Column key | Meaning |
+| --- | --- |
+| `rubric_version` | Rubric version |
+| `reviewer` | Reviewer |
+| `review_date` | Review date |
+| `candidate_ref` | Candidate reference (not a name) |
+| `sample_description` | Sample description |
+| `criterion` | Criterion |
+| `notes` | Notes |
+| `evidence_location` | Where in the sample the note comes from |
+| `score_1_to_5` | Score (1–5) |
+| `follow_up_question` | Follow-up question for the interview |
+
+One row per criterion per reviewer. Write notes and evidence location before the score. Score independently, then compare; discuss differences of two or more. Scores prepare the interview and are not a hiring decision on their own.
+
 [README](README.md)

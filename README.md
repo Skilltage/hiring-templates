@@ -11,6 +11,9 @@ Working documents for hiring teams: make the role concrete, agree what CV inform
 - [screening-calibration.csv](locales/en/screening-calibration.csv)
 - [AI recruitment vendor evaluation](locales/en/vendor-evaluation.md)
 - [vendor-comparison.csv](locales/en/vendor-comparison.csv)
+- [Engineering screening](locales/en/engineering-screening.md)
+- [Code sample review](locales/en/code-sample-review.md)
+- [code-sample-review.csv](locales/en/code-sample-review.csv)
 - [worksheet-guide.md](locales/en/worksheet-guide.md)
 
 ## Run the comparison
